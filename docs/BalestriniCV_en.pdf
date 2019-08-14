@@ -83,7 +83,7 @@ q 0.0 0.309 0.615 rg BT 80.10 235.11 Td (EXPERIENCE) Tj ET Q
 150.23 232.44 m 552.75 232.44 l S
 BT /F1 10.0 Tf ET
 0.0 G
-q 0.0 g BT 35.59 212.43 Td (11/20/2018 - 07/12/2019) Tj ET Q
+q 0.0 g BT 35.59 212.43 Td (11/20/2018 - 06/28/2019) Tj ET Q
 q 0.0 0.309 0.615 rg BT 164.40 212.43 Td (Professor) Tj ET Q
 q 0.0 g BT 164.40 195.42 Td (C.F.P. "Ist. Virginia Agnelli" - Turin \(TO\) - ITALY) Tj ET Q
 q 0.0 g BT 164.40 178.41 Td (Teaching of French courses in the first and second classes.) Tj ET Q
@@ -1014,8 +1014,8 @@ endobj
 <<
 /Producer (PL_FPDF 0.9.4 portage pour Laclasse.com par P.G. Levallois de la version 1.53 de PHP/FPDF d'Olivier Plathey.)
 /Title (Curriculum Vitae Andrea BALESTRINI)
-/Author (Politecnico di Torino - Ufficio Stage&Job)
-/CreationDate (D:20190621133610)
+/Author (Politecnico di Torino - Career Service Office)
+/CreationDate (D:20190814115833)
 >>
 endobj
 23 0 obj
@@ -1051,7 +1051,7 @@ xref
 0000024266 00000 n 
 0000165678 00000 n 
 0000166677 00000 n 
-0000166949 00000 n 
+0000166953 00000 n 
 trailer
 <<
 /Size 24
@@ -1059,5 +1059,5 @@ trailer
 /Info 22 0 R
 >>
 startxref
-167053
+167057
 %%EOF
